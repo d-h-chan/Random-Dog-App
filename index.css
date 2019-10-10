@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.hidden {
+  display: none;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  width: 20%;
+  display: inline;
+}
+
+li {
+  display: inline;
+}
+
+input {
+  width: 100px;
+}
